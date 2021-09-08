@@ -1,6 +1,6 @@
 To download and install the latest version, run:
 ```
-wget -O helloworld-Linux.deb https://github.com/SiinthdTravisTest/releases/latest/download/helloworld-Linux.deb
+wget -O helloworld-Linux.deb https://github.com/Siinthd/TravisTest/releases/latest/download/helloworld-Linux.deb
 sudo dpkg -i helloworld-Linux.deb
 ```
 
